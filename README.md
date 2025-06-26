@@ -1,4 +1,4 @@
-# 📊💳 Bank Transaction Analyzer & AI Financial Advisor 💡🤖
+# Bank Transaction Analysis using AI
 
 ## 🚀 About the Project  
 
