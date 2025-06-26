@@ -1,0 +1,291 @@
+Unnamed: 0,Transaction ID,Date,Time,Description,Credit/Debit,Credit,Debit,Balance,Category,Amount
+0.0,2025N93810,2025-01-01,22:48:00,Company Payroll - Salary credited,Credit,5754.39,,6754.39,Normal,5754.39
+1.0,2025N24592,2025-01-02,10:25:00,Etisalat - Utilities payment,Debit,,6.89,6747.5,Normal,-6.89
+2.0,2025N13278,2025-01-03,17:12:00,Noon - Shopping payment,Debit,,67.92,6679.58,Normal,-67.92
+3.0,2025N46048,2025-01-05,08:17:00,Home EMI - EMI payment,Debit,,382.5,6297.08,Normal,-382.5
+4.0,2025N42098,2025-01-06,17:50:00,Zaatar w Zeit - Dining payment,Debit,,55.18,6241.9,Normal,-55.18
+5.0,2025N39256,2025-01-07,02:25:00,RSA Insurance - Insurance payment,Debit,,27.95,6213.95,Normal,-27.95
+6.0,2025N28289,2025-01-08,10:20:00,NMC Hospital - Healthcare payment,Debit,,49.6,6164.35,Normal,-49.6
+7.0,2025N23434,2025-01-09,22:54:00,Namshi - Shopping payment,Debit,,88.03,6076.32,Normal,-88.03
+8.0,2025N98696,2025-01-10,23:14:00,Noon - Shopping payment,Debit,,79.56,5996.76,Normal,-79.56
+9.0,2025N81482,2025-01-13,13:25:00,AXA Insurance - Insurance payment,Debit,,97.96,5898.8,Normal,-97.96
+10.0,2025N21395,2025-01-14,08:21:00,VOX Cinemas - Entertainment payment,Debit,,64.36,5834.44,Normal,-64.36
+11.0,2025N87397,2025-01-16,03:02:00,Namshi - Shopping payment,Debit,,14.49,5819.95,Normal,-14.49
+12.0,2025N65302,2025-01-17,03:13:00,Home EMI - EMI payment,Debit,,50.97,5768.98,Normal,-50.97
+13.0,2025N14165,2025-01-19,08:57:00,Zaatar w Zeit - Dining payment,Debit,,44.19,5724.79,Normal,-44.19
+14.0,2025N13905,2025-01-22,08:25:00,DEWA - Utilities payment,Debit,,54.35,5670.44,Normal,-54.35
+15.0,2025N22280,2025-01-23,09:35:00,Noon - Shopping payment,Debit,,57.89,5612.55,Normal,-57.89
+16.0,2025N38657,2025-01-24,14:07:00,Namshi - Shopping payment,Debit,,91.33,5521.22,Normal,-91.33
+17.0,2025N40495,2025-01-25,23:05:00,KFC - Dining payment,Debit,,23.47,5497.75,Normal,-23.47
+18.0,2025N76237,2025-01-26,20:52:00,RTA Dubai - Transport payment,Debit,,57.18,5440.57,Normal,-57.18
+19.0,2025N88907,2025-01-27,00:31:00,Noor Takaful - Insurance payment,Debit,,23.99,5416.58,Normal,-23.99
+20.0,2025N13478,2025-01-29,02:48:00,Home EMI - EMI payment,Debit,,75.04,5341.54,Normal,-75.04
+21.0,2025N83563,2025-01-30,07:12:00,McDonald's - Dining payment,Debit,,87.44,5254.1,Normal,-87.44
+22.0,2025N36062,2025-01-31,05:56:00,DEWA - Utilities payment,Debit,,25.44,5228.66,Normal,-25.44
+23.0,2025N95181,2025-02-01,08:48:00,Company Payroll - Salary credited,Credit,4462.02,,9690.68,Normal,4462.02
+24.0,2025N81426,2025-02-01,07:20:00,Aster Clinic - Healthcare payment,Debit,,77.53,9613.15,Normal,-77.53
+25.0,2025N64987,2025-02-02,18:24:00,RTA Dubai - Transport payment,Debit,,76.26,9536.89,Normal,-76.26
+26.0,2025N38893,2025-02-03,11:03:00,Uber - Transport payment,Debit,,32.65,9504.24,Normal,-32.65
+27.0,2025N68878,2025-02-04,16:29:00,VOX Cinemas - Entertainment payment,Debit,,64.48,9439.76,Normal,-64.48
+28.0,2025N87236,2025-02-05,02:52:00,AutoLoan EMI - EMI payment,Debit,,485.77,8953.99,Normal,-485.77
+29.0,2025N46463,2025-02-05,07:19:00,DU Telecom - Utilities payment,Debit,,13.64,8940.35,Normal,-13.64
+30.0,2025N10851,2025-02-06,08:07:00,Noon - Shopping payment,Debit,,72.14,8868.21,Normal,-72.14
+31.0,2025N30926,2025-02-07,23:07:00,Etisalat - Utilities payment,Debit,,42.49,8825.72,Normal,-42.49
+32.0,2025N65392,2025-02-08,14:44:00,RSA Insurance - Insurance payment,Debit,,14.28,8811.44,Normal,-14.28
+33.0,2025N54597,2025-02-09,09:34:00,KFC - Dining payment,Debit,,8.77,8802.67,Normal,-8.77
+34.0,2025N46421,2025-02-12,11:50:00,AXA Insurance - Insurance payment,Debit,,93.1,8709.57,Normal,-93.1
+35.0,2025N30379,2025-02-13,12:48:00,Carrefour - Groceries payment,Debit,,34.61,8674.96,Normal,-34.61
+36.0,2025N38221,2025-02-14,22:03:00,Etisalat - Utilities payment,Debit,,83.05,8591.91,Normal,-83.05
+37.0,2025N54118,2025-02-16,23:39:00,VOX Cinemas - Entertainment payment,Debit,,81.62,8510.29,Normal,-81.62
+38.0,2025N23396,2025-02-17,23:54:00,Noor Takaful - Insurance payment,Debit,,32.56,8477.73,Normal,-32.56
+39.0,2025N22156,2025-02-18,00:20:00,Mediclinic - Healthcare payment,Debit,,93.59,8384.14,Normal,-93.59
+40.0,2025N59797,2025-02-19,10:33:00,Etisalat - Utilities payment,Debit,,5.55,8378.59,Normal,-5.55
+41.0,2025N22676,2025-02-21,18:20:00,AXA Insurance - Insurance payment,Debit,,56.71,8321.88,Normal,-56.71
+42.0,2025N57052,2025-02-22,01:11:00,Namshi - Shopping payment,Debit,,10.21,8311.67,Normal,-10.21
+43.0,2025N55082,2025-02-26,09:19:00,Uber - Transport payment,Debit,,55.84,8255.83,Normal,-55.84
+44.0,2025N89131,2025-02-27,15:03:00,Mediclinic - Healthcare payment,Debit,,52.96,8202.87,Normal,-52.96
+45.0,2025N44671,2025-02-28,01:41:00,Namshi - Shopping payment,Debit,,41.0,8161.87,Normal,-41.0
+46.0,2025N15695,2025-02-28,21:55:00,DU Telecom - Utilities payment,Debit,,99.63,8062.24,Normal,-99.63
+47.0,2025N70217,2025-03-01,05:36:00,Company Payroll - Salary credited,Credit,5229.29,,13291.53,Normal,5229.29
+48.0,2025N80284,2025-03-01,11:07:00,Spotify - Entertainment payment,Debit,,85.29,13206.24,Normal,-85.29
+49.0,2025N26361,2025-03-03,02:35:00,McDonald's - Dining payment,Debit,,78.54,13127.7,Normal,-78.54
+50.0,2025N59615,2025-03-04,17:46:00,VOX Cinemas - Entertainment payment,Debit,,53.98,13073.72,Normal,-53.98
+51.0,2025N20328,2025-03-05,21:50:00,Education Loan EMI - EMI payment,Debit,,563.28,12510.44,Normal,-563.28
+52.0,2025N82357,2025-03-06,09:05:00,Etisalat - Utilities payment,Debit,,98.42,12412.02,Normal,-98.42
+53.0,2025N48427,2025-03-08,23:59:00,Amazon - Shopping payment,Debit,,41.21,12370.81,Normal,-41.21
+54.0,2025N92397,2025-03-09,11:50:00,Netflix - Entertainment payment,Debit,,67.89,12302.92,Normal,-67.89
+55.0,2025N91070,2025-03-10,14:07:00,Home EMI - EMI payment,Debit,,43.4,12259.52,Normal,-43.4
+56.0,2025N57400,2025-03-11,09:06:00,Zaatar w Zeit - Dining payment,Debit,,89.74,12169.78,Normal,-89.74
+57.0,2025N85674,2025-03-13,04:35:00,RSA Insurance - Insurance payment,Debit,,66.45,12103.33,Normal,-66.45
+58.0,2025N35203,2025-03-14,09:23:00,NMC Hospital - Healthcare payment,Debit,,21.85,12081.48,Normal,-21.85
+59.0,2025N19116,2025-03-15,08:23:00,Lulu Hypermarket - Groceries payment,Debit,,68.5,12012.98,Normal,-68.5
+60.0,2025N16006,2025-03-16,17:35:00,Lulu Hypermarket - Groceries payment,Debit,,92.36,11920.62,Normal,-92.36
+61.0,2025N96673,2025-03-17,20:31:00,DEWA - Utilities payment,Debit,,98.08,11822.54,Normal,-98.08
+62.0,2025N39871,2025-03-18,00:28:00,Noon - Shopping payment,Debit,,83.46,11739.08,Normal,-83.46
+63.0,2025N47930,2025-03-21,22:10:00,Subway - Dining payment,Debit,,31.65,11707.43,Normal,-31.65
+64.0,2025N20458,2025-03-22,16:24:00,Noor Takaful - Insurance payment,Debit,,31.02,11676.41,Normal,-31.02
+65.0,2025N40512,2025-03-24,16:55:00,DEWA - Utilities payment,Debit,,49.69,11626.72,Normal,-49.69
+66.0,2025N23238,2025-03-26,04:05:00,Home EMI - EMI payment,Debit,,55.4,11571.32,Normal,-55.4
+67.0,2025N59823,2025-03-29,01:20:00,Namshi - Shopping payment,Debit,,45.35,11525.97,Normal,-45.35
+68.0,2025N46434,2025-03-31,07:44:00,RSA Insurance - Insurance payment,Debit,,62.48,11463.49,Normal,-62.48
+69.0,2025N69429,2025-04-01,19:01:00,Company Payroll - Salary credited,Credit,5448.99,,16912.48,Normal,5448.99
+70.0,2025N93320,2025-04-01,02:59:00,Spinneys - Groceries payment,Debit,,35.06,16877.42,Normal,-35.06
+71.0,2025N57819,2025-04-05,21:13:00,Home EMI - EMI payment,Debit,,564.5,16312.92,Normal,-564.5
+72.0,2025N31319,2025-04-05,03:00:00,Home EMI - EMI payment,Debit,,85.14,16227.78,Normal,-85.14
+73.0,2025N58520,2025-04-06,18:15:00,Zaatar w Zeit - Dining payment,Debit,,32.97,16194.81,Normal,-32.97
+74.0,2025N56566,2025-04-07,03:03:00,AXA Insurance - Insurance payment,Debit,,91.89,16102.92,Normal,-91.89
+75.0,2025N37460,2025-04-12,18:13:00,AutoLoan EMI - EMI payment,Debit,,14.37,16088.55,Normal,-14.37
+76.0,2025N97841,2025-04-14,02:06:00,DEWA - Utilities payment,Debit,,49.64,16038.91,Normal,-49.64
+77.0,2025N44993,2025-04-15,10:31:00,RSA Insurance - Insurance payment,Debit,,12.91,16026.0,Normal,-12.91
+78.0,2025N99593,2025-04-17,17:57:00,Uber - Transport payment,Debit,,92.0,15934.0,Normal,-92.0
+79.0,2025N94939,2025-04-18,12:00:00,Mediclinic - Healthcare payment,Debit,,77.6,15856.4,Normal,-77.6
+80.0,2025N19358,2025-04-19,21:35:00,DEWA - Utilities payment,Debit,,21.28,15835.12,Normal,-21.28
+81.0,2025N89840,2025-04-20,23:20:00,DU Telecom - Utilities payment,Debit,,5.96,15829.16,Normal,-5.96
+82.0,2025N93227,2025-04-21,12:00:00,Noon - Shopping payment,Debit,,59.81,15769.35,Normal,-59.81
+83.0,2025N32431,2025-04-23,19:39:00,Mediclinic - Healthcare payment,Debit,,55.82,15713.53,Normal,-55.82
+84.0,2025N80010,2025-04-24,03:07:00,NMC Hospital - Healthcare payment,Debit,,98.69,15614.84,Normal,-98.69
+85.0,2025N42087,2025-04-25,11:48:00,Noon - Shopping payment,Debit,,90.14,15524.7,Normal,-90.14
+86.0,2025N31417,2025-04-27,09:34:00,Etisalat - Utilities payment,Debit,,58.7,15466.0,Normal,-58.7
+87.0,2025N70589,2025-04-28,05:38:00,Home EMI - EMI payment,Debit,,18.95,15447.05,Normal,-18.95
+88.0,2025N59735,2025-04-29,18:20:00,Zaatar w Zeit - Dining payment,Debit,,57.82,15389.23,Normal,-57.82
+89.0,2025N45382,2025-04-30,16:26:00,Netflix - Entertainment payment,Debit,,21.89,15367.34,Normal,-21.89
+90.0,2025N93886,2025-05-01,00:22:00,Company Payroll - Salary credited,Credit,5356.91,,20724.25,Normal,5356.91
+91.0,2025N83000,2025-05-02,04:03:00,Noon - Shopping payment,Debit,,81.73,20642.52,Normal,-81.73
+92.0,2025N38785,2025-05-04,06:49:00,Careem - Transport payment,Debit,,91.85,20550.67,Normal,-91.85
+93.0,2025N99733,2025-05-05,13:29:00,Education Loan EMI - EMI payment,Debit,,362.68,20187.99,Normal,-362.68
+94.0,2025N52504,2025-05-05,09:06:00,VOX Cinemas - Entertainment payment,Debit,,94.6,20093.39,Normal,-94.6
+95.0,2025N17331,2025-05-06,20:27:00,Spotify - Entertainment payment,Debit,,49.55,20043.84,Normal,-49.55
+96.0,2025N40021,2025-05-07,10:10:00,Aster Clinic - Healthcare payment,Debit,,30.36,20013.48,Normal,-30.36
+97.0,2025N14207,2025-05-08,11:51:00,Zaatar w Zeit - Dining payment,Debit,,82.82,19930.66,Normal,-82.82
+98.0,2025N51347,2025-05-12,07:43:00,RTA Dubai - Transport payment,Debit,,38.09,19892.57,Normal,-38.09
+99.0,2025N62581,2025-05-13,20:10:00,Lulu Hypermarket - Groceries payment,Debit,,92.38,19800.19,Normal,-92.38
+100.0,2025N45093,2025-05-14,02:15:00,Spinneys - Groceries payment,Debit,,38.43,19761.76,Normal,-38.43
+101.0,2025N18675,2025-05-18,23:21:00,Etisalat - Utilities payment,Debit,,15.31,19746.45,Normal,-15.31
+102.0,2025N37653,2025-05-20,01:02:00,AXA Insurance - Insurance payment,Debit,,29.82,19716.63,Normal,-29.82
+103.0,2025N84341,2025-05-22,10:43:00,AutoLoan EMI - EMI payment,Debit,,61.83,19654.8,Normal,-61.83
+104.0,2025N51245,2025-05-23,02:36:00,Namshi - Shopping payment,Debit,,45.46,19609.34,Normal,-45.46
+105.0,2025N37869,2025-05-25,11:40:00,Careem - Transport payment,Debit,,38.64,19570.7,Normal,-38.64
+106.0,2025N95909,2025-05-26,05:09:00,Aster Clinic - Healthcare payment,Debit,,49.16,19521.54,Normal,-49.16
+107.0,2025N75435,2025-05-29,16:51:00,Noon - Shopping payment,Debit,,90.21,19431.33,Normal,-90.21
+108.0,2025N61856,2025-06-01,13:13:00,Company Payroll - Salary credited,Credit,5986.79,,25418.12,Normal,5986.79
+109.0,2025N94259,2025-06-03,11:49:00,Carrefour - Groceries payment,Debit,,86.82,25331.3,Normal,-86.82
+110.0,2025N70142,2025-06-05,13:51:00,Home EMI - EMI payment,Debit,,363.42,24967.88,Normal,-363.42
+111.0,2025N28726,2025-06-05,06:25:00,McDonald's - Dining payment,Debit,,33.63,24934.25,Normal,-33.63
+112.0,2025N44718,2025-06-07,03:22:00,Uber - Transport payment,Debit,,76.3,24857.95,Normal,-76.3
+113.0,2025N28301,2025-06-09,03:04:00,Etisalat - Utilities payment,Debit,,96.19,24761.76,Normal,-96.19
+114.0,2025N42325,2025-06-10,21:43:00,Namshi - Shopping payment,Debit,,12.7,24749.06,Normal,-12.7
+115.0,2025N83579,2025-06-11,22:42:00,Education Loan EMI - EMI payment,Debit,,67.7,24681.36,Normal,-67.7
+116.0,2025N80644,2025-06-14,07:45:00,Aster Clinic - Healthcare payment,Debit,,18.9,24662.46,Normal,-18.9
+117.0,2025N44438,2025-06-15,09:35:00,Careem - Transport payment,Debit,,88.43,24574.03,Normal,-88.43
+118.0,2025N86622,2025-06-17,05:56:00,AXA Insurance - Insurance payment,Debit,,75.51,24498.52,Normal,-75.51
+119.0,2025N66155,2025-06-20,01:01:00,DU Telecom - Utilities payment,Debit,,51.52,24447.0,Normal,-51.52
+120.0,2025N86484,2025-06-23,18:12:00,RTA Dubai - Transport payment,Debit,,5.95,24441.05,Normal,-5.95
+121.0,2025N62350,2025-06-24,04:47:00,McDonald's - Dining payment,Debit,,89.25,24351.8,Normal,-89.25
+122.0,2025N57447,2025-06-25,16:10:00,Amazon - Shopping payment,Debit,,67.19,24284.61,Normal,-67.19
+123.0,2025N38746,2025-06-26,10:52:00,Lulu Hypermarket - Groceries payment,Debit,,79.88,24204.73,Normal,-79.88
+124.0,2025N28131,2025-06-27,18:22:00,McDonald's - Dining payment,Debit,,48.65,24156.08,Normal,-48.65
+125.0,2025N76784,2025-06-29,11:33:00,AutoLoan EMI - EMI payment,Debit,,50.67,24105.41,Normal,-50.67
+126.0,2025N74686,2025-06-30,14:06:00,Education Loan EMI - EMI payment,Debit,,77.59,24027.82,Normal,-77.59
+127.0,2025N21915,2025-07-01,04:56:00,Company Payroll - Salary credited,Credit,5800.41,,29828.23,Normal,5800.41
+128.0,2025N16175,2025-07-02,22:28:00,RSA Insurance - Insurance payment,Debit,,37.96,29790.27,Normal,-37.96
+129.0,2025N24371,2025-07-03,03:10:00,DU Telecom - Utilities payment,Debit,,49.57,29740.7,Normal,-49.57
+130.0,2025N30033,2025-07-05,19:10:00,Education Loan EMI - EMI payment,Debit,,423.02,29317.68,Normal,-423.02
+131.0,2025N92240,2025-07-05,13:38:00,McDonald's - Dining payment,Debit,,42.15,29275.53,Normal,-42.15
+132.0,2025N30969,2025-07-06,04:09:00,Careem - Transport payment,Debit,,8.13,29267.4,Normal,-8.13
+133.0,2025N99192,2025-07-07,01:02:00,Etisalat - Utilities payment,Debit,,45.71,29221.69,Normal,-45.71
+134.0,2025N65333,2025-07-12,20:42:00,Lulu Hypermarket - Groceries payment,Debit,,79.05,29142.64,Normal,-79.05
+135.0,2025N88172,2025-07-13,09:33:00,Noor Takaful - Insurance payment,Debit,,67.11,29075.53,Normal,-67.11
+136.0,2025N18326,2025-07-14,06:31:00,Education Loan EMI - EMI payment,Debit,,89.18,28986.35,Normal,-89.18
+137.0,2025N60432,2025-07-19,20:12:00,Etisalat - Utilities payment,Debit,,13.69,28972.66,Normal,-13.69
+138.0,2025N60019,2025-07-20,01:20:00,Noor Takaful - Insurance payment,Debit,,48.27,28924.39,Normal,-48.27
+139.0,2025N88104,2025-07-22,23:35:00,AutoLoan EMI - EMI payment,Debit,,91.35,28833.04,Normal,-91.35
+140.0,2025N71348,2025-07-25,00:34:00,Carrefour - Groceries payment,Debit,,41.23,28791.81,Normal,-41.23
+141.0,2025N79352,2025-07-26,05:39:00,DU Telecom - Utilities payment,Debit,,40.47,28751.34,Normal,-40.47
+142.0,2025N42953,2025-07-27,20:54:00,Amazon - Shopping payment,Debit,,38.88,28712.46,Normal,-38.88
+143.0,2025N82512,2025-07-28,17:52:00,Amazon - Shopping payment,Debit,,99.86,28612.6,Normal,-99.86
+144.0,2025N11504,2025-07-29,17:28:00,Spotify - Entertainment payment,Debit,,22.07,28590.53,Normal,-22.07
+145.0,2025N99166,2025-07-31,19:15:00,NMC Hospital - Healthcare payment,Debit,,61.39,28529.14,Normal,-61.39
+146.0,2025N25014,2025-08-01,03:39:00,Company Payroll - Salary credited,Credit,4643.56,,33172.7,Normal,4643.56
+147.0,2025N99353,2025-08-01,22:01:00,Careem - Transport payment,Debit,,52.48,33120.22,Normal,-52.48
+148.0,2025N80381,2025-08-02,19:16:00,NMC Hospital - Healthcare payment,Debit,,26.91,33093.31,Normal,-26.91
+149.0,2025N44973,2025-08-05,22:21:00,Home EMI - EMI payment,Debit,,453.06,32640.25,Normal,-453.06
+150.0,2025N94012,2025-08-12,20:37:00,Careem - Transport payment,Debit,,60.5,32579.75,Normal,-60.5
+151.0,2025N54587,2025-08-14,10:54:00,Spinneys - Groceries payment,Debit,,30.76,32548.99,Normal,-30.76
+152.0,2025N24621,2025-08-16,23:11:00,VOX Cinemas - Entertainment payment,Debit,,61.14,32487.85,Normal,-61.14
+153.0,2025N48469,2025-08-17,05:10:00,Mediclinic - Healthcare payment,Debit,,10.06,32477.79,Normal,-10.06
+154.0,2025N66985,2025-08-20,20:29:00,VOX Cinemas - Entertainment payment,Debit,,65.66,32412.13,Normal,-65.66
+155.0,2025N30730,2025-08-21,13:57:00,AXA Insurance - Insurance payment,Debit,,43.98,32368.15,Normal,-43.98
+156.0,2025N69470,2025-08-22,02:22:00,VOX Cinemas - Entertainment payment,Debit,,77.28,32290.87,Normal,-77.28
+157.0,2025N10425,2025-08-24,08:55:00,Etisalat - Utilities payment,Debit,,56.34,32234.53,Normal,-56.34
+158.0,2025N44522,2025-08-26,22:13:00,RTA Dubai - Transport payment,Debit,,24.65,32209.88,Normal,-24.65
+159.0,2025N75612,2025-08-30,02:05:00,AutoLoan EMI - EMI payment,Debit,,40.04,32169.84,Normal,-40.04
+160.0,2025N33416,2025-09-01,03:54:00,Company Payroll - Salary credited,Credit,4798.3,,36968.14,Normal,4798.3
+161.0,2025N76542,2025-09-02,15:12:00,Mediclinic - Healthcare payment,Debit,,92.13,36876.01,Normal,-92.13
+162.0,2025N23947,2025-09-04,15:24:00,NMC Hospital - Healthcare payment,Debit,,34.03,36841.98,Normal,-34.03
+163.0,2025N91959,2025-09-05,14:14:00,Home EMI - EMI payment,Debit,,526.5,36315.48,Normal,-526.5
+164.0,2025N49117,2025-09-05,04:16:00,Aster Clinic - Healthcare payment,Debit,,81.74,36233.74,Normal,-81.74
+165.0,2025N93748,2025-09-06,16:37:00,McDonald's - Dining payment,Debit,,47.22,36186.52,Normal,-47.22
+166.0,2025N76540,2025-09-07,23:25:00,Noor Takaful - Insurance payment,Debit,,17.02,36169.5,Normal,-17.02
+167.0,2025N89818,2025-09-09,22:29:00,NMC Hospital - Healthcare payment,Debit,,83.57,36085.93,Normal,-83.57
+168.0,2025N36071,2025-09-10,20:39:00,Amazon - Shopping payment,Debit,,51.65,36034.28,Normal,-51.65
+169.0,2025N30032,2025-09-11,09:12:00,Home EMI - EMI payment,Debit,,35.1,35999.18,Normal,-35.1
+170.0,2025N59009,2025-09-13,19:28:00,Spotify - Entertainment payment,Debit,,41.49,35957.69,Normal,-41.49
+171.0,2025N31174,2025-09-14,10:25:00,AutoLoan EMI - EMI payment,Debit,,47.61,35910.08,Normal,-47.61
+172.0,2025N80697,2025-09-15,18:40:00,Netflix - Entertainment payment,Debit,,46.94,35863.14,Normal,-46.94
+173.0,2025N79514,2025-09-16,14:29:00,Lulu Hypermarket - Groceries payment,Debit,,86.82,35776.32,Normal,-86.82
+174.0,2025N10074,2025-09-17,12:49:00,McDonald's - Dining payment,Debit,,26.96,35749.36,Normal,-26.96
+175.0,2025N88504,2025-09-18,06:55:00,Amazon - Shopping payment,Debit,,66.86,35682.5,Normal,-66.86
+176.0,2025N52487,2025-09-19,05:02:00,Spinneys - Groceries payment,Debit,,34.31,35648.19,Normal,-34.31
+177.0,2025N74042,2025-09-20,12:36:00,RTA Dubai - Transport payment,Debit,,17.12,35631.07,Normal,-17.12
+178.0,2025N12552,2025-09-23,23:46:00,Namshi - Shopping payment,Debit,,92.94,35538.13,Normal,-92.94
+179.0,2025N24662,2025-09-24,12:37:00,McDonald's - Dining payment,Debit,,83.26,35454.87,Normal,-83.26
+180.0,2025N57576,2025-09-26,17:27:00,Noon - Shopping payment,Debit,,64.69,35390.18,Normal,-64.69
+181.0,2025N50306,2025-09-27,03:27:00,KFC - Dining payment,Debit,,20.27,35369.91,Normal,-20.27
+182.0,2025N41385,2025-10-01,01:43:00,Company Payroll - Salary credited,Credit,4038.84,,39408.75,Normal,4038.84
+183.0,2025N17592,2025-10-02,19:01:00,Zaatar w Zeit - Dining payment,Debit,,43.88,39364.87,Normal,-43.88
+184.0,2025N41571,2025-10-03,23:45:00,Uber - Transport payment,Debit,,52.22,39312.65,Normal,-52.22
+185.0,2025N84364,2025-10-05,23:31:00,AutoLoan EMI - EMI payment,Debit,,586.99,38725.66,Normal,-586.99
+186.0,2025N20322,2025-10-06,17:40:00,Amazon - Shopping payment,Debit,,26.05,38699.61,Normal,-26.05
+187.0,2025N21226,2025-10-07,23:59:00,Spotify - Entertainment payment,Debit,,31.17,38668.44,Normal,-31.17
+188.0,2025N73699,2025-10-09,07:13:00,RSA Insurance - Insurance payment,Debit,,49.87,38618.57,Normal,-49.87
+189.0,2025N19071,2025-10-10,21:24:00,Subway - Dining payment,Debit,,45.31,38573.26,Normal,-45.31
+190.0,2025N79822,2025-10-11,09:11:00,Education Loan EMI - EMI payment,Debit,,15.33,38557.93,Normal,-15.33
+191.0,2025N26483,2025-10-12,21:40:00,NMC Hospital - Healthcare payment,Debit,,39.32,38518.61,Normal,-39.32
+192.0,2025N26828,2025-10-13,08:56:00,Lulu Hypermarket - Groceries payment,Debit,,94.11,38424.5,Normal,-94.11
+193.0,2025N96474,2025-10-15,07:05:00,NMC Hospital - Healthcare payment,Debit,,63.72,38360.78,Normal,-63.72
+194.0,2025N72296,2025-10-18,13:35:00,Home EMI - EMI payment,Debit,,97.85,38262.93,Normal,-97.85
+195.0,2025N82063,2025-10-19,13:08:00,Uber - Transport payment,Debit,,81.4,38181.53,Normal,-81.4
+196.0,2025N31643,2025-10-23,03:06:00,Namshi - Shopping payment,Debit,,86.62,38094.91,Normal,-86.62
+197.0,2025N44741,2025-10-24,09:50:00,DU Telecom - Utilities payment,Debit,,30.63,38064.28,Normal,-30.63
+198.0,2025N79163,2025-10-25,17:30:00,McDonald's - Dining payment,Debit,,70.42,37993.86,Normal,-70.42
+199.0,2025N89507,2025-10-26,13:53:00,DEWA - Utilities payment,Debit,,51.13,37942.73,Normal,-51.13
+200.0,2025N65461,2025-10-27,12:09:00,Careem - Transport payment,Debit,,37.64,37905.09,Normal,-37.64
+201.0,2025N37760,2025-10-28,10:20:00,Education Loan EMI - EMI payment,Debit,,79.71,37825.38,Normal,-79.71
+202.0,2025N80686,2025-10-29,13:06:00,Aster Clinic - Healthcare payment,Debit,,45.04,37780.34,Normal,-45.04
+203.0,2025N36365,2025-10-30,00:53:00,Noor Takaful - Insurance payment,Debit,,40.68,37739.66,Normal,-40.68
+204.0,2025N50857,2025-10-31,17:47:00,AXA Insurance - Insurance payment,Debit,,99.82,37639.84,Normal,-99.82
+205.0,2025N62296,2025-11-01,19:32:00,Company Payroll - Salary credited,Credit,5453.77,,43093.61,Normal,5453.77
+206.0,2025N98039,2025-11-04,19:23:00,RTA Dubai - Transport payment,Debit,,10.39,43083.22,Normal,-10.39
+207.0,2025N95180,2025-11-05,13:00:00,Education Loan EMI - EMI payment,Debit,,391.18,42692.04,Normal,-391.18
+208.0,2025N58944,2025-11-05,22:08:00,Netflix - Entertainment payment,Debit,,47.65,42644.39,Normal,-47.65
+209.0,2025N67422,2025-11-06,09:07:00,Spotify - Entertainment payment,Debit,,51.51,42592.88,Normal,-51.51
+210.0,2025N77839,2025-11-07,09:05:00,Education Loan EMI - EMI payment,Debit,,57.55,42535.33,Normal,-57.55
+211.0,2025N69177,2025-11-08,06:14:00,NMC Hospital - Healthcare payment,Debit,,8.58,42526.75,Normal,-8.58
+212.0,2025N25860,2025-11-09,23:41:00,Education Loan EMI - EMI payment,Debit,,50.1,42476.65,Normal,-50.1
+213.0,2025N42493,2025-11-10,06:12:00,Careem - Transport payment,Debit,,39.11,42437.54,Normal,-39.11
+214.0,2025N39451,2025-11-11,06:04:00,Noor Takaful - Insurance payment,Debit,,64.92,42372.62,Normal,-64.92
+215.0,2025N18392,2025-11-12,01:55:00,NMC Hospital - Healthcare payment,Debit,,97.5,42275.12,Normal,-97.5
+216.0,2025N54313,2025-11-14,01:55:00,Education Loan EMI - EMI payment,Debit,,36.7,42238.42,Normal,-36.7
+217.0,2025N12757,2025-11-17,14:24:00,Spotify - Entertainment payment,Debit,,59.84,42178.58,Normal,-59.84
+218.0,2025N87110,2025-11-19,11:16:00,DEWA - Utilities payment,Debit,,72.42,42106.16,Normal,-72.42
+219.0,2025N82603,2025-11-20,09:24:00,Amazon - Shopping payment,Debit,,77.98,42028.18,Normal,-77.98
+220.0,2025N40161,2025-11-21,16:29:00,KFC - Dining payment,Debit,,55.51,41972.67,Normal,-55.51
+221.0,2025N87128,2025-11-22,20:48:00,Home EMI - EMI payment,Debit,,61.82,41910.85,Normal,-61.82
+222.0,2025N38864,2025-11-23,11:09:00,Carrefour - Groceries payment,Debit,,61.47,41849.38,Normal,-61.47
+223.0,2025N10942,2025-11-24,12:48:00,Uber - Transport payment,Debit,,56.52,41792.86,Normal,-56.52
+224.0,2025N19305,2025-11-26,14:03:00,NMC Hospital - Healthcare payment,Debit,,77.32,41715.54,Normal,-77.32
+225.0,2025N92719,2025-11-28,08:55:00,Etisalat - Utilities payment,Debit,,85.38,41630.16,Normal,-85.38
+226.0,2025N17716,2025-11-30,02:33:00,Careem - Transport payment,Debit,,91.92,41538.24,Normal,-91.92
+227.0,2025N40007,2025-12-01,02:20:00,Company Payroll - Salary credited,Credit,4145.23,,45683.47,Normal,4145.23
+228.0,2025N18834,2025-12-01,10:37:00,Namshi - Shopping payment,Debit,,30.03,45653.44,Normal,-30.03
+229.0,2025N14117,2025-12-02,14:21:00,DU Telecom - Utilities payment,Debit,,70.38,45583.06,Normal,-70.38
+230.0,2025N53309,2025-12-04,12:15:00,AXA Insurance - Insurance payment,Debit,,60.42,45522.64,Normal,-60.42
+231.0,2025N19287,2025-12-05,13:11:00,AutoLoan EMI - EMI payment,Debit,,592.51,44930.13,Normal,-592.51
+232.0,2025N77391,2025-12-05,03:27:00,DU Telecom - Utilities payment,Debit,,31.58,44898.55,Normal,-31.58
+233.0,2025N41195,2025-12-06,12:33:00,Education Loan EMI - EMI payment,Debit,,65.78,44832.77,Normal,-65.78
+234.0,2025N46500,2025-12-07,20:58:00,NMC Hospital - Healthcare payment,Debit,,56.84,44775.93,Normal,-56.84
+235.0,2025N97684,2025-12-09,04:35:00,Amazon - Shopping payment,Debit,,31.13,44744.8,Normal,-31.13
+236.0,2025N73624,2025-12-11,03:08:00,RTA Dubai - Transport payment,Debit,,18.09,44726.71,Normal,-18.09
+237.0,2025N38080,2025-12-12,12:41:00,RSA Insurance - Insurance payment,Debit,,84.17,44642.54,Normal,-84.17
+238.0,2025N80678,2025-12-13,05:33:00,Noon - Shopping payment,Debit,,26.75,44615.79,Normal,-26.75
+239.0,2025N27342,2025-12-15,18:27:00,NMC Hospital - Healthcare payment,Debit,,40.67,44575.12,Normal,-40.67
+240.0,2025N84847,2025-12-16,09:43:00,Netflix - Entertainment payment,Debit,,74.38,44500.74,Normal,-74.38
+241.0,2025N85525,2025-12-18,04:59:00,Mediclinic - Healthcare payment,Debit,,95.14,44405.6,Normal,-95.14
+242.0,2025N71953,2025-12-19,21:39:00,AutoLoan EMI - EMI payment,Debit,,57.56,44348.04,Normal,-57.56
+243.0,2025N41850,2025-12-20,22:55:00,AutoLoan EMI - EMI payment,Debit,,98.15,44249.89,Normal,-98.15
+244.0,2025N71993,2025-12-21,06:27:00,Etisalat - Utilities payment,Debit,,56.35,44193.54,Normal,-56.35
+245.0,2025N63354,2025-12-24,02:28:00,DEWA - Utilities payment,Debit,,23.57,44169.97,Normal,-23.57
+246.0,2025N34957,2025-12-25,19:59:00,Subway - Dining payment,Debit,,61.88,44108.09,Normal,-61.88
+247.0,2025N22363,2025-12-28,20:12:00,Noor Takaful - Insurance payment,Debit,,11.14,44096.95,Normal,-11.14
+248.0,2025N22704,2025-12-29,03:17:00,Mediclinic - Healthcare payment,Debit,,76.65,44020.3,Normal,-76.65
+249.0,2025N96374,2025-12-30,21:49:00,Spotify - Entertainment payment,Debit,,18.7,44001.6,Normal,-18.7
+,2025A98259,2025-04-14,20:41,Crypto Transfer,,1771.49,11166.53,8774.53,Anomaly,-9395.04
+,2025A42591,2025-04-04,06:12,Crypto Transfer,,303.06,15923.2,8205.33,Anomaly,-15620.140000000001
+,2025A19880,2025-04-18,14:51,Unknown Refund,,2243.07,11328.22,3506.91,Anomaly,-9085.15
+,2025A22224,2025-04-28,07:10,Crypto Transfer,,4279.83,6468.63,6869.3,Anomaly,-2188.8
+,2025A31579,2025-04-14,12:00,Crypto Transfer,,2428.21,8206.21,4609.36,Anomaly,-5777.999999999999
+,2025A82845,2025-04-13,21:45,Overseas Flight,,1326.02,16761.06,5095.08,Anomaly,-15435.04
+,2025A51104,2025-04-16,01:03,Crypto Transfer,,773.98,9450.62,9718.38,Anomaly,-8676.640000000001
+,2025A76562,2025-04-19,02:54,Crypto Transfer,,2383.94,18790.81,5780.14,Anomaly,-16406.870000000003
+,2025A25713,2025-04-06,18:15,Overseas Flight,,342.61,6019.41,8756.37,Anomaly,-5676.8
+,2025A44179,2025-04-19,06:42,Luxury Watch,,2972.6,14290.72,4773.02,Anomaly,-11318.119999999999
+,2025A69929,2025-04-23,10:59,Luxury Watch,,1570.92,8984.22,2177.9,Anomaly,-7413.299999999999
+,2025A19602,2025-04-25,17:13,Crypto Transfer,,4678.67,5139.73,6590.43,Anomaly,-461.0599999999995
+,2025A58434,2025-04-17,09:10,Unknown Refund,,1326.0,18998.89,8927.78,Anomaly,-17672.89
+,2025A97538,2025-04-15,17:19,Crypto Transfer,,4168.72,15553.1,6505.1,Anomaly,-11384.380000000001
+,2025A82512,2025-04-22,04:17,Crypto Transfer,,517.93,18171.9,3380.19,Anomaly,-17653.97
+,2025A76244,2025-04-10,15:16,Luxury Watch,,3024.15,15764.18,2832.38,Anomaly,-12740.03
+,2025A10464,2025-04-28,10:49,Crypto Transfer,,253.99,14514.27,8464.13,Anomaly,-14260.28
+,2025A83519,2025-04-05,00:07,Overseas Flight,,3185.57,8929.33,7671.08,Anomaly,-5743.76
+,2025A58393,2025-04-03,18:35,Crypto Transfer,,4725.25,15365.29,2341.49,Anomaly,-10640.04
+,2025A56898,2025-04-05,06:43,Crypto Transfer,,2148.93,5627.43,4281.86,Anomaly,-3478.5000000000005
+,2025A91351,2025-09-08,23:09,Overseas Flight,,3334.67,10305.18,6038.95,Anomaly,-6970.51
+,2025A13248,2025-09-08,05:47,Overseas Flight,,4323.03,19643.09,8296.95,Anomaly,-15320.060000000001
+,2025A44970,2025-09-11,05:50,Unknown Refund,,3911.93,11175.7,7029.16,Anomaly,-7263.77
+,2025A36158,2025-09-23,14:22,Unknown Refund,,540.48,18082.5,8727.34,Anomaly,-17542.02
+,2025A62227,2025-09-10,10:17,Unknown Refund,,4102.68,18069.85,3006.31,Anomaly,-13967.169999999998
+,2025A99065,2025-09-28,17:21,Overseas Flight,,347.1,16599.9,4160.32,Anomaly,-16252.800000000001
+,2025A15014,2025-09-01,03:38,Luxury Watch,,576.71,19556.01,2607.11,Anomaly,-18979.3
+,2025A60488,2025-09-14,18:12,Crypto Transfer,,1728.44,16796.42,4927.54,Anomaly,-15067.979999999998
+,2025A57739,2025-09-09,13:04,Unknown Refund,,221.93,11540.86,5679.28,Anomaly,-11318.93
+,2025A49363,2025-09-22,16:19,Crypto Transfer,,4603.85,14347.33,6970.49,Anomaly,-9743.48
+,2025A35144,2025-09-22,13:42,Unknown Refund,,2041.96,11036.01,3660.9,Anomaly,-8994.05
+,2025A63225,2025-09-13,17:53,Luxury Watch,,3386.59,18542.08,6539.63,Anomaly,-15155.490000000002
+,2025A70946,2025-09-01,14:28,Luxury Watch,,1519.37,8152.74,8071.83,Anomaly,-6633.37
+,2025A96356,2025-09-22,02:18,Unknown Refund,,1068.51,12097.79,9110.63,Anomaly,-11029.28
+,2025A98184,2025-09-17,09:14,Unknown Refund,,3319.27,14288.91,1840.48,Anomaly,-10969.64
+,2025A90120,2025-09-26,02:29,Overseas Flight,,995.65,5366.38,3203.58,Anomaly,-4370.7300000000005
+,2025A74799,2025-09-14,12:15,Overseas Flight,,4430.68,13635.06,7465.11,Anomaly,-9204.38
+,2025A65724,2025-09-05,07:11,Crypto Transfer,,3280.29,5083.17,7758.68,Anomaly,-1802.88
+,2025A25906,2025-09-26,14:08,Unknown Refund,,4789.83,12769.37,1451.97,Anomaly,-7979.540000000001
+,2025A68008,2025-09-26,19:52,Luxury Watch,,2323.22,12966.98,6030.33,Anomaly,-10643.76

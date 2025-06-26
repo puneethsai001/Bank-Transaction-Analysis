@@ -1,0 +1,251 @@
+,Transaction ID,Date,Time,Description,Credit/Debit,Credit,Debit,Balance,Category
+0,TXN100000,2024-01-01,22:48:00,Company Payroll - Salary credited,Credit,5754.39,,6754.39,Salary
+1,TXN100001,2024-01-02,10:25:00,Etisalat - Utilities payment,Debit,,6.89,6747.5,Utilities
+2,TXN100002,2024-01-03,17:12:00,Noon - Shopping payment,Debit,,67.92,6679.58,Shopping
+3,TXN100003,2024-01-05,08:17:00,Home EMI - EMI payment,Debit,,382.5,6297.08,EMI
+4,TXN100004,2024-01-06,17:50:00,Zaatar w Zeit - Dining payment,Debit,,55.18,6241.9,Dining
+5,TXN100005,2024-01-07,02:25:00,RSA Insurance - Insurance payment,Debit,,27.95,6213.95,Insurance
+6,TXN100006,2024-01-08,10:20:00,NMC Hospital - Healthcare payment,Debit,,49.6,6164.35,Healthcare
+7,TXN100007,2024-01-09,22:54:00,Namshi - Shopping payment,Debit,,88.03,6076.32,Shopping
+8,TXN100008,2024-01-10,23:14:00,Noon - Shopping payment,Debit,,79.56,5996.76,Shopping
+9,TXN100009,2024-01-13,13:25:00,AXA Insurance - Insurance payment,Debit,,97.96,5898.8,Insurance
+10,TXN100010,2024-01-14,08:21:00,VOX Cinemas - Entertainment payment,Debit,,64.36,5834.44,Entertainment
+11,TXN100011,2024-01-16,03:02:00,Namshi - Shopping payment,Debit,,14.49,5819.95,Shopping
+12,TXN100012,2024-01-17,03:13:00,Home EMI - EMI payment,Debit,,50.97,5768.98,EMI
+13,TXN100013,2024-01-19,08:57:00,Zaatar w Zeit - Dining payment,Debit,,44.19,5724.79,Dining
+14,TXN100014,2024-01-22,08:25:00,DEWA - Utilities payment,Debit,,54.35,5670.44,Utilities
+15,TXN100015,2024-01-23,09:35:00,Noon - Shopping payment,Debit,,57.89,5612.55,Shopping
+16,TXN100016,2024-01-24,14:07:00,Namshi - Shopping payment,Debit,,91.33,5521.22,Shopping
+17,TXN100017,2024-01-25,23:05:00,KFC - Dining payment,Debit,,23.47,5497.75,Dining
+18,TXN100018,2024-01-26,20:52:00,RTA Dubai - Transport payment,Debit,,57.18,5440.57,Transport
+19,TXN100019,2024-01-27,00:31:00,Noor Takaful - Insurance payment,Debit,,23.99,5416.58,Insurance
+20,TXN100020,2024-01-29,02:48:00,Home EMI - EMI payment,Debit,,75.04,5341.54,EMI
+21,TXN100021,2024-01-30,07:12:00,McDonald's - Dining payment,Debit,,87.44,5254.1,Dining
+22,TXN100022,2024-01-31,05:56:00,DEWA - Utilities payment,Debit,,25.44,5228.66,Utilities
+23,TXN100023,2024-02-01,08:48:00,Company Payroll - Salary credited,Credit,4462.02,,9690.68,Salary
+24,TXN100024,2024-02-01,07:20:00,Aster Clinic - Healthcare payment,Debit,,77.53,9613.15,Healthcare
+25,TXN100025,2024-02-02,18:24:00,RTA Dubai - Transport payment,Debit,,76.26,9536.89,Transport
+26,TXN100026,2024-02-03,11:03:00,Uber - Transport payment,Debit,,32.65,9504.24,Transport
+27,TXN100027,2024-02-04,16:29:00,VOX Cinemas - Entertainment payment,Debit,,64.48,9439.76,Entertainment
+28,TXN100028,2024-02-05,02:52:00,AutoLoan EMI - EMI payment,Debit,,485.77,8953.99,EMI
+29,TXN100029,2024-02-05,07:19:00,DU Telecom - Utilities payment,Debit,,13.64,8940.35,Utilities
+30,TXN100030,2024-02-06,08:07:00,Noon - Shopping payment,Debit,,72.14,8868.21,Shopping
+31,TXN100031,2024-02-07,23:07:00,Etisalat - Utilities payment,Debit,,42.49,8825.72,Utilities
+32,TXN100032,2024-02-08,14:44:00,RSA Insurance - Insurance payment,Debit,,14.28,8811.44,Insurance
+33,TXN100033,2024-02-09,09:34:00,KFC - Dining payment,Debit,,8.77,8802.67,Dining
+34,TXN100034,2024-02-12,11:50:00,AXA Insurance - Insurance payment,Debit,,93.1,8709.57,Insurance
+35,TXN100035,2024-02-13,12:48:00,Carrefour - Groceries payment,Debit,,34.61,8674.96,Groceries
+36,TXN100036,2024-02-14,22:03:00,Etisalat - Utilities payment,Debit,,83.05,8591.91,Utilities
+37,TXN100037,2024-02-16,23:39:00,VOX Cinemas - Entertainment payment,Debit,,81.62,8510.29,Entertainment
+38,TXN100038,2024-02-17,23:54:00,Noor Takaful - Insurance payment,Debit,,32.56,8477.73,Insurance
+39,TXN100039,2024-02-18,00:20:00,Mediclinic - Healthcare payment,Debit,,93.59,8384.14,Healthcare
+40,TXN100040,2024-02-19,10:33:00,Etisalat - Utilities payment,Debit,,5.55,8378.59,Utilities
+41,TXN100041,2024-02-21,18:20:00,AXA Insurance - Insurance payment,Debit,,56.71,8321.88,Insurance
+42,TXN100042,2024-02-22,01:11:00,Namshi - Shopping payment,Debit,,10.21,8311.67,Shopping
+43,TXN100043,2024-02-26,09:19:00,Uber - Transport payment,Debit,,55.84,8255.83,Transport
+44,TXN100044,2024-02-27,15:03:00,Mediclinic - Healthcare payment,Debit,,52.96,8202.87,Healthcare
+45,TXN100045,2024-02-28,01:41:00,Namshi - Shopping payment,Debit,,41.0,8161.87,Shopping
+46,TXN100046,2024-02-29,21:55:00,DU Telecom - Utilities payment,Debit,,99.63,8062.24,Utilities
+47,TXN100047,2024-03-01,05:36:00,Company Payroll - Salary credited,Credit,5229.29,,13291.53,Salary
+48,TXN100048,2024-03-01,11:07:00,Spotify - Entertainment payment,Debit,,85.29,13206.24,Entertainment
+49,TXN100049,2024-03-03,02:35:00,McDonald's - Dining payment,Debit,,78.54,13127.7,Dining
+50,TXN100050,2024-03-04,17:46:00,VOX Cinemas - Entertainment payment,Debit,,53.98,13073.72,Entertainment
+51,TXN100051,2024-03-05,21:50:00,Education Loan EMI - EMI payment,Debit,,563.28,12510.44,EMI
+52,TXN100052,2024-03-06,09:05:00,Etisalat - Utilities payment,Debit,,98.42,12412.02,Utilities
+53,TXN100053,2024-03-08,23:59:00,Amazon - Shopping payment,Debit,,41.21,12370.81,Shopping
+54,TXN100054,2024-03-09,11:50:00,Netflix - Entertainment payment,Debit,,67.89,12302.92,Entertainment
+55,TXN100055,2024-03-10,14:07:00,Home EMI - EMI payment,Debit,,43.4,12259.52,EMI
+56,TXN100056,2024-03-11,09:06:00,Zaatar w Zeit - Dining payment,Debit,,89.74,12169.78,Dining
+57,TXN100057,2024-03-13,04:35:00,RSA Insurance - Insurance payment,Debit,,66.45,12103.33,Insurance
+58,TXN100058,2024-03-14,09:23:00,NMC Hospital - Healthcare payment,Debit,,21.85,12081.48,Healthcare
+59,TXN100059,2024-03-15,08:23:00,Lulu Hypermarket - Groceries payment,Debit,,68.5,12012.98,Groceries
+60,TXN100060,2024-03-16,17:35:00,Lulu Hypermarket - Groceries payment,Debit,,92.36,11920.62,Groceries
+61,TXN100061,2024-03-17,20:31:00,DEWA - Utilities payment,Debit,,98.08,11822.54,Utilities
+62,TXN100062,2024-03-18,00:28:00,Noon - Shopping payment,Debit,,83.46,11739.08,Shopping
+63,TXN100063,2024-03-21,22:10:00,Subway - Dining payment,Debit,,31.65,11707.43,Dining
+64,TXN100064,2024-03-22,16:24:00,Noor Takaful - Insurance payment,Debit,,31.02,11676.41,Insurance
+65,TXN100065,2024-03-24,16:55:00,DEWA - Utilities payment,Debit,,49.69,11626.72,Utilities
+66,TXN100066,2024-03-26,04:05:00,Home EMI - EMI payment,Debit,,55.4,11571.32,EMI
+67,TXN100067,2024-03-29,01:20:00,Namshi - Shopping payment,Debit,,45.35,11525.97,Shopping
+68,TXN100068,2024-03-31,07:44:00,RSA Insurance - Insurance payment,Debit,,62.48,11463.49,Insurance
+69,TXN100069,2024-04-01,19:01:00,Company Payroll - Salary credited,Credit,5448.99,,16912.48,Salary
+70,TXN100070,2024-04-01,02:59:00,Spinneys - Groceries payment,Debit,,35.06,16877.42,Groceries
+71,TXN100071,2024-04-05,21:13:00,Home EMI - EMI payment,Debit,,564.5,16312.92,EMI
+72,TXN100072,2024-04-05,03:00:00,Home EMI - EMI payment,Debit,,85.14,16227.78,EMI
+73,TXN100073,2024-04-06,18:15:00,Zaatar w Zeit - Dining payment,Debit,,32.97,16194.81,Dining
+74,TXN100074,2024-04-07,03:03:00,AXA Insurance - Insurance payment,Debit,,91.89,16102.92,Insurance
+75,TXN100075,2024-04-12,18:13:00,AutoLoan EMI - EMI payment,Debit,,14.37,16088.55,EMI
+76,TXN100076,2024-04-14,02:06:00,DEWA - Utilities payment,Debit,,49.64,16038.91,Utilities
+77,TXN100077,2024-04-15,10:31:00,RSA Insurance - Insurance payment,Debit,,12.91,16026.0,Insurance
+78,TXN100078,2024-04-17,17:57:00,Uber - Transport payment,Debit,,92.0,15934.0,Transport
+79,TXN100079,2024-04-18,12:00:00,Mediclinic - Healthcare payment,Debit,,77.6,15856.4,Healthcare
+80,TXN100080,2024-04-19,21:35:00,DEWA - Utilities payment,Debit,,21.28,15835.12,Utilities
+81,TXN100081,2024-04-20,23:20:00,DU Telecom - Utilities payment,Debit,,5.96,15829.16,Utilities
+82,TXN100082,2024-04-21,12:00:00,Noon - Shopping payment,Debit,,59.81,15769.35,Shopping
+83,TXN100083,2024-04-23,19:39:00,Mediclinic - Healthcare payment,Debit,,55.82,15713.53,Healthcare
+84,TXN100084,2024-04-24,03:07:00,NMC Hospital - Healthcare payment,Debit,,98.69,15614.84,Healthcare
+85,TXN100085,2024-04-25,11:48:00,Noon - Shopping payment,Debit,,90.14,15524.7,Shopping
+86,TXN100086,2024-04-27,09:34:00,Etisalat - Utilities payment,Debit,,58.7,15466.0,Utilities
+87,TXN100087,2024-04-28,05:38:00,Home EMI - EMI payment,Debit,,18.95,15447.05,EMI
+88,TXN100088,2024-04-29,18:20:00,Zaatar w Zeit - Dining payment,Debit,,57.82,15389.23,Dining
+89,TXN100089,2024-04-30,16:26:00,Netflix - Entertainment payment,Debit,,21.89,15367.34,Entertainment
+90,TXN100090,2024-05-01,00:22:00,Company Payroll - Salary credited,Credit,5356.91,,20724.25,Salary
+91,TXN100091,2024-05-02,04:03:00,Noon - Shopping payment,Debit,,81.73,20642.52,Shopping
+92,TXN100092,2024-05-04,06:49:00,Careem - Transport payment,Debit,,91.85,20550.67,Transport
+93,TXN100093,2024-05-05,13:29:00,Education Loan EMI - EMI payment,Debit,,362.68,20187.99,EMI
+94,TXN100094,2024-05-05,09:06:00,VOX Cinemas - Entertainment payment,Debit,,94.6,20093.39,Entertainment
+95,TXN100095,2024-05-06,20:27:00,Spotify - Entertainment payment,Debit,,49.55,20043.84,Entertainment
+96,TXN100096,2024-05-07,10:10:00,Aster Clinic - Healthcare payment,Debit,,30.36,20013.48,Healthcare
+97,TXN100097,2024-05-08,11:51:00,Zaatar w Zeit - Dining payment,Debit,,82.82,19930.66,Dining
+98,TXN100098,2024-05-12,07:43:00,RTA Dubai - Transport payment,Debit,,38.09,19892.57,Transport
+99,TXN100099,2024-05-13,20:10:00,Lulu Hypermarket - Groceries payment,Debit,,92.38,19800.19,Groceries
+100,TXN100100,2024-05-14,02:15:00,Spinneys - Groceries payment,Debit,,38.43,19761.76,Groceries
+101,TXN100101,2024-05-18,23:21:00,Etisalat - Utilities payment,Debit,,15.31,19746.45,Utilities
+102,TXN100102,2024-05-20,01:02:00,AXA Insurance - Insurance payment,Debit,,29.82,19716.63,Insurance
+103,TXN100103,2024-05-22,10:43:00,AutoLoan EMI - EMI payment,Debit,,61.83,19654.8,EMI
+104,TXN100104,2024-05-23,02:36:00,Namshi - Shopping payment,Debit,,45.46,19609.34,Shopping
+105,TXN100105,2024-05-25,11:40:00,Careem - Transport payment,Debit,,38.64,19570.7,Transport
+106,TXN100106,2024-05-26,05:09:00,Aster Clinic - Healthcare payment,Debit,,49.16,19521.54,Healthcare
+107,TXN100107,2024-05-29,16:51:00,Noon - Shopping payment,Debit,,90.21,19431.33,Shopping
+108,TXN100108,2024-06-01,13:13:00,Company Payroll - Salary credited,Credit,5986.79,,25418.12,Salary
+109,TXN100109,2024-06-03,11:49:00,Carrefour - Groceries payment,Debit,,86.82,25331.3,Groceries
+110,TXN100110,2024-06-05,13:51:00,Home EMI - EMI payment,Debit,,363.42,24967.88,EMI
+111,TXN100111,2024-06-05,06:25:00,McDonald's - Dining payment,Debit,,33.63,24934.25,Dining
+112,TXN100112,2024-06-07,03:22:00,Uber - Transport payment,Debit,,76.3,24857.95,Transport
+113,TXN100113,2024-06-09,03:04:00,Etisalat - Utilities payment,Debit,,96.19,24761.76,Utilities
+114,TXN100114,2024-06-10,21:43:00,Namshi - Shopping payment,Debit,,12.7,24749.06,Shopping
+115,TXN100115,2024-06-11,22:42:00,Education Loan EMI - EMI payment,Debit,,67.7,24681.36,EMI
+116,TXN100116,2024-06-14,07:45:00,Aster Clinic - Healthcare payment,Debit,,18.9,24662.46,Healthcare
+117,TXN100117,2024-06-15,09:35:00,Careem - Transport payment,Debit,,88.43,24574.03,Transport
+118,TXN100118,2024-06-17,05:56:00,AXA Insurance - Insurance payment,Debit,,75.51,24498.52,Insurance
+119,TXN100119,2024-06-20,01:01:00,DU Telecom - Utilities payment,Debit,,51.52,24447.0,Utilities
+120,TXN100120,2024-06-23,18:12:00,RTA Dubai - Transport payment,Debit,,5.95,24441.05,Transport
+121,TXN100121,2024-06-24,04:47:00,McDonald's - Dining payment,Debit,,89.25,24351.8,Dining
+122,TXN100122,2024-06-25,16:10:00,Amazon - Shopping payment,Debit,,67.19,24284.61,Shopping
+123,TXN100123,2024-06-26,10:52:00,Lulu Hypermarket - Groceries payment,Debit,,79.88,24204.73,Groceries
+124,TXN100124,2024-06-27,18:22:00,McDonald's - Dining payment,Debit,,48.65,24156.08,Dining
+125,TXN100125,2024-06-29,11:33:00,AutoLoan EMI - EMI payment,Debit,,50.67,24105.41,EMI
+126,TXN100126,2024-06-30,14:06:00,Education Loan EMI - EMI payment,Debit,,77.59,24027.82,EMI
+127,TXN100127,2024-07-01,04:56:00,Company Payroll - Salary credited,Credit,5800.41,,29828.23,Salary
+128,TXN100128,2024-07-02,22:28:00,RSA Insurance - Insurance payment,Debit,,37.96,29790.27,Insurance
+129,TXN100129,2024-07-03,03:10:00,DU Telecom - Utilities payment,Debit,,49.57,29740.7,Utilities
+130,TXN100130,2024-07-05,19:10:00,Education Loan EMI - EMI payment,Debit,,423.02,29317.68,EMI
+131,TXN100131,2024-07-05,13:38:00,McDonald's - Dining payment,Debit,,42.15,29275.53,Dining
+132,TXN100132,2024-07-06,04:09:00,Careem - Transport payment,Debit,,8.13,29267.4,Transport
+133,TXN100133,2024-07-07,01:02:00,Etisalat - Utilities payment,Debit,,45.71,29221.69,Utilities
+134,TXN100134,2024-07-12,20:42:00,Lulu Hypermarket - Groceries payment,Debit,,79.05,29142.64,Groceries
+135,TXN100135,2024-07-13,09:33:00,Noor Takaful - Insurance payment,Debit,,67.11,29075.53,Insurance
+136,TXN100136,2024-07-14,06:31:00,Education Loan EMI - EMI payment,Debit,,89.18,28986.35,EMI
+137,TXN100137,2024-07-19,20:12:00,Etisalat - Utilities payment,Debit,,13.69,28972.66,Utilities
+138,TXN100138,2024-07-20,01:20:00,Noor Takaful - Insurance payment,Debit,,48.27,28924.39,Insurance
+139,TXN100139,2024-07-22,23:35:00,AutoLoan EMI - EMI payment,Debit,,91.35,28833.04,EMI
+140,TXN100140,2024-07-25,00:34:00,Carrefour - Groceries payment,Debit,,41.23,28791.81,Groceries
+141,TXN100141,2024-07-26,05:39:00,DU Telecom - Utilities payment,Debit,,40.47,28751.34,Utilities
+142,TXN100142,2024-07-27,20:54:00,Amazon - Shopping payment,Debit,,38.88,28712.46,Shopping
+143,TXN100143,2024-07-28,17:52:00,Amazon - Shopping payment,Debit,,99.86,28612.6,Shopping
+144,TXN100144,2024-07-29,17:28:00,Spotify - Entertainment payment,Debit,,22.07,28590.53,Entertainment
+145,TXN100145,2024-07-31,19:15:00,NMC Hospital - Healthcare payment,Debit,,61.39,28529.14,Healthcare
+146,TXN100146,2024-08-01,03:39:00,Company Payroll - Salary credited,Credit,4643.56,,33172.7,Salary
+147,TXN100147,2024-08-01,22:01:00,Careem - Transport payment,Debit,,52.48,33120.22,Transport
+148,TXN100148,2024-08-02,19:16:00,NMC Hospital - Healthcare payment,Debit,,26.91,33093.31,Healthcare
+149,TXN100149,2024-08-05,22:21:00,Home EMI - EMI payment,Debit,,453.06,32640.25,EMI
+150,TXN100150,2024-08-12,20:37:00,Careem - Transport payment,Debit,,60.5,32579.75,Transport
+151,TXN100151,2024-08-14,10:54:00,Spinneys - Groceries payment,Debit,,30.76,32548.99,Groceries
+152,TXN100152,2024-08-16,23:11:00,VOX Cinemas - Entertainment payment,Debit,,61.14,32487.85,Entertainment
+153,TXN100153,2024-08-17,05:10:00,Mediclinic - Healthcare payment,Debit,,10.06,32477.79,Healthcare
+154,TXN100154,2024-08-20,20:29:00,VOX Cinemas - Entertainment payment,Debit,,65.66,32412.13,Entertainment
+155,TXN100155,2024-08-21,13:57:00,AXA Insurance - Insurance payment,Debit,,43.98,32368.15,Insurance
+156,TXN100156,2024-08-22,02:22:00,VOX Cinemas - Entertainment payment,Debit,,77.28,32290.87,Entertainment
+157,TXN100157,2024-08-24,08:55:00,Etisalat - Utilities payment,Debit,,56.34,32234.53,Utilities
+158,TXN100158,2024-08-26,22:13:00,RTA Dubai - Transport payment,Debit,,24.65,32209.88,Transport
+159,TXN100159,2024-08-30,02:05:00,AutoLoan EMI - EMI payment,Debit,,40.04,32169.84,EMI
+160,TXN100160,2024-09-01,03:54:00,Company Payroll - Salary credited,Credit,4798.3,,36968.14,Salary
+161,TXN100161,2024-09-02,15:12:00,Mediclinic - Healthcare payment,Debit,,92.13,36876.01,Healthcare
+162,TXN100162,2024-09-04,15:24:00,NMC Hospital - Healthcare payment,Debit,,34.03,36841.98,Healthcare
+163,TXN100163,2024-09-05,14:14:00,Home EMI - EMI payment,Debit,,526.5,36315.48,EMI
+164,TXN100164,2024-09-05,04:16:00,Aster Clinic - Healthcare payment,Debit,,81.74,36233.74,Healthcare
+165,TXN100165,2024-09-06,16:37:00,McDonald's - Dining payment,Debit,,47.22,36186.52,Dining
+166,TXN100166,2024-09-07,23:25:00,Noor Takaful - Insurance payment,Debit,,17.02,36169.5,Insurance
+167,TXN100167,2024-09-09,22:29:00,NMC Hospital - Healthcare payment,Debit,,83.57,36085.93,Healthcare
+168,TXN100168,2024-09-10,20:39:00,Amazon - Shopping payment,Debit,,51.65,36034.28,Shopping
+169,TXN100169,2024-09-11,09:12:00,Home EMI - EMI payment,Debit,,35.1,35999.18,EMI
+170,TXN100170,2024-09-13,19:28:00,Spotify - Entertainment payment,Debit,,41.49,35957.69,Entertainment
+171,TXN100171,2024-09-14,10:25:00,AutoLoan EMI - EMI payment,Debit,,47.61,35910.08,EMI
+172,TXN100172,2024-09-15,18:40:00,Netflix - Entertainment payment,Debit,,46.94,35863.14,Entertainment
+173,TXN100173,2024-09-16,14:29:00,Lulu Hypermarket - Groceries payment,Debit,,86.82,35776.32,Groceries
+174,TXN100174,2024-09-17,12:49:00,McDonald's - Dining payment,Debit,,26.96,35749.36,Dining
+175,TXN100175,2024-09-18,06:55:00,Amazon - Shopping payment,Debit,,66.86,35682.5,Shopping
+176,TXN100176,2024-09-19,05:02:00,Spinneys - Groceries payment,Debit,,34.31,35648.19,Groceries
+177,TXN100177,2024-09-20,12:36:00,RTA Dubai - Transport payment,Debit,,17.12,35631.07,Transport
+178,TXN100178,2024-09-23,23:46:00,Namshi - Shopping payment,Debit,,92.94,35538.13,Shopping
+179,TXN100179,2024-09-24,12:37:00,McDonald's - Dining payment,Debit,,83.26,35454.87,Dining
+180,TXN100180,2024-09-26,17:27:00,Noon - Shopping payment,Debit,,64.69,35390.18,Shopping
+181,TXN100181,2024-09-27,03:27:00,KFC - Dining payment,Debit,,20.27,35369.91,Dining
+182,TXN100182,2024-10-01,01:43:00,Company Payroll - Salary credited,Credit,4038.84,,39408.75,Salary
+183,TXN100183,2024-10-02,19:01:00,Zaatar w Zeit - Dining payment,Debit,,43.88,39364.87,Dining
+184,TXN100184,2024-10-03,23:45:00,Uber - Transport payment,Debit,,52.22,39312.65,Transport
+185,TXN100185,2024-10-05,23:31:00,AutoLoan EMI - EMI payment,Debit,,586.99,38725.66,EMI
+186,TXN100186,2024-10-06,17:40:00,Amazon - Shopping payment,Debit,,26.05,38699.61,Shopping
+187,TXN100187,2024-10-07,23:59:00,Spotify - Entertainment payment,Debit,,31.17,38668.44,Entertainment
+188,TXN100188,2024-10-09,07:13:00,RSA Insurance - Insurance payment,Debit,,49.87,38618.57,Insurance
+189,TXN100189,2024-10-10,21:24:00,Subway - Dining payment,Debit,,45.31,38573.26,Dining
+190,TXN100190,2024-10-11,09:11:00,Education Loan EMI - EMI payment,Debit,,15.33,38557.93,EMI
+191,TXN100191,2024-10-12,21:40:00,NMC Hospital - Healthcare payment,Debit,,39.32,38518.61,Healthcare
+192,TXN100192,2024-10-13,08:56:00,Lulu Hypermarket - Groceries payment,Debit,,94.11,38424.5,Groceries
+193,TXN100193,2024-10-15,07:05:00,NMC Hospital - Healthcare payment,Debit,,63.72,38360.78,Healthcare
+194,TXN100194,2024-10-18,13:35:00,Home EMI - EMI payment,Debit,,97.85,38262.93,EMI
+195,TXN100195,2024-10-19,13:08:00,Uber - Transport payment,Debit,,81.4,38181.53,Transport
+196,TXN100196,2024-10-23,03:06:00,Namshi - Shopping payment,Debit,,86.62,38094.91,Shopping
+197,TXN100197,2024-10-24,09:50:00,DU Telecom - Utilities payment,Debit,,30.63,38064.28,Utilities
+198,TXN100198,2024-10-25,17:30:00,McDonald's - Dining payment,Debit,,70.42,37993.86,Dining
+199,TXN100199,2024-10-26,13:53:00,DEWA - Utilities payment,Debit,,51.13,37942.73,Utilities
+200,TXN100200,2024-10-27,12:09:00,Careem - Transport payment,Debit,,37.64,37905.09,Transport
+201,TXN100201,2024-10-28,10:20:00,Education Loan EMI - EMI payment,Debit,,79.71,37825.38,EMI
+202,TXN100202,2024-10-29,13:06:00,Aster Clinic - Healthcare payment,Debit,,45.04,37780.34,Healthcare
+203,TXN100203,2024-10-30,00:53:00,Noor Takaful - Insurance payment,Debit,,40.68,37739.66,Insurance
+204,TXN100204,2024-10-31,17:47:00,AXA Insurance - Insurance payment,Debit,,99.82,37639.84,Insurance
+205,TXN100205,2024-11-01,19:32:00,Company Payroll - Salary credited,Credit,5453.77,,43093.61,Salary
+206,TXN100206,2024-11-04,19:23:00,RTA Dubai - Transport payment,Debit,,10.39,43083.22,Transport
+207,TXN100207,2024-11-05,13:00:00,Education Loan EMI - EMI payment,Debit,,391.18,42692.04,EMI
+208,TXN100208,2024-11-05,22:08:00,Netflix - Entertainment payment,Debit,,47.65,42644.39,Entertainment
+209,TXN100209,2024-11-06,09:07:00,Spotify - Entertainment payment,Debit,,51.51,42592.88,Entertainment
+210,TXN100210,2024-11-07,09:05:00,Education Loan EMI - EMI payment,Debit,,57.55,42535.33,EMI
+211,TXN100211,2024-11-08,06:14:00,NMC Hospital - Healthcare payment,Debit,,8.58,42526.75,Healthcare
+212,TXN100212,2024-11-09,23:41:00,Education Loan EMI - EMI payment,Debit,,50.1,42476.65,EMI
+213,TXN100213,2024-11-10,06:12:00,Careem - Transport payment,Debit,,39.11,42437.54,Transport
+214,TXN100214,2024-11-11,06:04:00,Noor Takaful - Insurance payment,Debit,,64.92,42372.62,Insurance
+215,TXN100215,2024-11-12,01:55:00,NMC Hospital - Healthcare payment,Debit,,97.5,42275.12,Healthcare
+216,TXN100216,2024-11-14,01:55:00,Education Loan EMI - EMI payment,Debit,,36.7,42238.42,EMI
+217,TXN100217,2024-11-17,14:24:00,Spotify - Entertainment payment,Debit,,59.84,42178.58,Entertainment
+218,TXN100218,2024-11-19,11:16:00,DEWA - Utilities payment,Debit,,72.42,42106.16,Utilities
+219,TXN100219,2024-11-20,09:24:00,Amazon - Shopping payment,Debit,,77.98,42028.18,Shopping
+220,TXN100220,2024-11-21,16:29:00,KFC - Dining payment,Debit,,55.51,41972.67,Dining
+221,TXN100221,2024-11-22,20:48:00,Home EMI - EMI payment,Debit,,61.82,41910.85,EMI
+222,TXN100222,2024-11-23,11:09:00,Carrefour - Groceries payment,Debit,,61.47,41849.38,Groceries
+223,TXN100223,2024-11-24,12:48:00,Uber - Transport payment,Debit,,56.52,41792.86,Transport
+224,TXN100224,2024-11-26,14:03:00,NMC Hospital - Healthcare payment,Debit,,77.32,41715.54,Healthcare
+225,TXN100225,2024-11-28,08:55:00,Etisalat - Utilities payment,Debit,,85.38,41630.16,Utilities
+226,TXN100226,2024-11-30,02:33:00,Careem - Transport payment,Debit,,91.92,41538.24,Transport
+227,TXN100227,2024-12-01,02:20:00,Company Payroll - Salary credited,Credit,4145.23,,45683.47,Salary
+228,TXN100228,2024-12-01,10:37:00,Namshi - Shopping payment,Debit,,30.03,45653.44,Shopping
+229,TXN100229,2024-12-02,14:21:00,DU Telecom - Utilities payment,Debit,,70.38,45583.06,Utilities
+230,TXN100230,2024-12-04,12:15:00,AXA Insurance - Insurance payment,Debit,,60.42,45522.64,Insurance
+231,TXN100231,2024-12-05,13:11:00,AutoLoan EMI - EMI payment,Debit,,592.51,44930.13,EMI
+232,TXN100232,2024-12-05,03:27:00,DU Telecom - Utilities payment,Debit,,31.58,44898.55,Utilities
+233,TXN100233,2024-12-06,12:33:00,Education Loan EMI - EMI payment,Debit,,65.78,44832.77,EMI
+234,TXN100234,2024-12-07,20:58:00,NMC Hospital - Healthcare payment,Debit,,56.84,44775.93,Healthcare
+235,TXN100235,2024-12-09,04:35:00,Amazon - Shopping payment,Debit,,31.13,44744.8,Shopping
+236,TXN100236,2024-12-11,03:08:00,RTA Dubai - Transport payment,Debit,,18.09,44726.71,Transport
+237,TXN100237,2024-12-12,12:41:00,RSA Insurance - Insurance payment,Debit,,84.17,44642.54,Insurance
+238,TXN100238,2024-12-13,05:33:00,Noon - Shopping payment,Debit,,26.75,44615.79,Shopping
+239,TXN100239,2024-12-15,18:27:00,NMC Hospital - Healthcare payment,Debit,,40.67,44575.12,Healthcare
+240,TXN100240,2024-12-16,09:43:00,Netflix - Entertainment payment,Debit,,74.38,44500.74,Entertainment
+241,TXN100241,2024-12-18,04:59:00,Mediclinic - Healthcare payment,Debit,,95.14,44405.6,Healthcare
+242,TXN100242,2024-12-19,21:39:00,AutoLoan EMI - EMI payment,Debit,,57.56,44348.04,EMI
+243,TXN100243,2024-12-20,22:55:00,AutoLoan EMI - EMI payment,Debit,,98.15,44249.89,EMI
+244,TXN100244,2024-12-21,06:27:00,Etisalat - Utilities payment,Debit,,56.35,44193.54,Utilities
+245,TXN100245,2024-12-24,02:28:00,DEWA - Utilities payment,Debit,,23.57,44169.97,Utilities
+246,TXN100246,2024-12-25,19:59:00,Subway - Dining payment,Debit,,61.88,44108.09,Dining
+247,TXN100247,2024-12-28,20:12:00,Noor Takaful - Insurance payment,Debit,,11.14,44096.95,Insurance
+248,TXN100248,2024-12-29,03:17:00,Mediclinic - Healthcare payment,Debit,,76.65,44020.3,Healthcare
+249,TXN100249,2024-12-30,21:49:00,Spotify - Entertainment payment,Debit,,18.7,44001.6,Entertainment
